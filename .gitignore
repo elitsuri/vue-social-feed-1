@@ -55,3 +55,7 @@ Thumbs.db
 *.key
 *.pem
 *.crt
+
+# Environment and secret files
+*.env
+.env.local
